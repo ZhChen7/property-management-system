@@ -1,14 +1,19 @@
+
+
 # 综合专题学期实训
 
 > 大二上学期 数据结构 期末实训
 >
-> 系统 ：小区物业管理系统
+> 开发系统 ：小区物业管理系统
+
+
 
 | 题    目 | 小区物业管理系统                             |
 | -------- | -------------------------------------------- |
 | 学院     | 计算机信息与工程学院                         |
+| 专业     | 计算机科学与技术专业                         |
 | 班    级 | 1701                                         |
-| 学    号 | 201711501024、201711501026、201711501007     |
+| 学    号 | 2017115010124、2017115010126、2017115010107  |
 | 姓    名 | 周琛（组长）、陶逸辉（组员）、李春菊（组员） |
 | 开发时间 | 大二上学期 数据结构 期末实训                 |
 
@@ -22,7 +27,7 @@
 
 
 
-#### 成员
+#### 好队友
 
 组长：周琛
 
@@ -59,8 +64,9 @@
 
 
 
-
 ## 小区物业管理系统
+
+
 
 ### 1．题目要求
 
@@ -95,19 +101,38 @@
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191222130501872.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzk0OTc4OA==,size_16,color_FFFFFF,t_70)
 
 主要功能函数分析
-（1）Xinxi_Menu（）
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20191222130655849.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzk0OTc4OA==,size_16,color_FFFFFF,t_70)
-（2）Tongji_Menu（）
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20191222130737493.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzk0OTc4OA==,size_16,color_FFFFFF,t_70)
-（3）YeZhu_Menu（）
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20191222130810613.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzk0OTc4OA==,size_16,color_FFFFFF,t_70)
-（4）WuYe_Menu（）
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20191222130826339.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzk0OTc4OA==,size_16,color_FFFFFF,t_70)
-（5）Doreign_personnel()
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20191222130851518.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzk0OTc4OA==,size_16,color_FFFFFF,t_70)
 
-（6）Equipment_record()
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20191222130907922.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzk0OTc4OA==,size_16,color_FFFFFF,t_70)
+1. Xinxi_Menu（）
+   ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191222130655849.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzk0OTc4OA==,size_16,color_FFFFFF,t_70)
+
+
+
+2. Tongji_Menu（）
+   ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191222130737493.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzk0OTc4OA==,size_16,color_FFFFFF,t_70)
+
+
+
+3. YeZhu_Menu（）
+   ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191222130810613.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzk0OTc4OA==,size_16,color_FFFFFF,t_70)
+
+
+
+
+
+4. WuYe_Menu（）
+   ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191222130826339.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzk0OTc4OA==,size_16,color_FFFFFF,t_70)
+
+
+
+5. Doreign_personnel()
+   ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191222130851518.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzk0OTc4OA==,size_16,color_FFFFFF,t_70)
+
+
+
+6. Equipment_record()
+   ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191222130907922.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzk0OTc4OA==,size_16,color_FFFFFF,t_70)
+
+
 
 ### 5．功能模块图
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191222131352375.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzk0OTc4OA==,size_16,color_FFFFFF,t_70)
